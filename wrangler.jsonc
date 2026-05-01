@@ -3,6 +3,7 @@
   "name": "openlist-work",
   "main": "src/index.ts",
   "compatibility_date": "2025-08-16",
+  "minify" = true,
   "compatibility_flags": [
     "nodejs_compat"
   ],
