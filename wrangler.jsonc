@@ -36,7 +36,7 @@
   "kv_namespaces": [
     {
       "binding": "KV_DATA",       // ← 请勿修改 binding 名称
-      "id": ""                    // ← 填入你在 CF 控制台创建的 KV 命名空间 ID
+      "id": "baa43e93ae324be0a45b9b4b5a5eaebc"                    // ← 填入你在 CF 控制台创建的 KV 命名空间 ID
     }
   ],
 
@@ -46,8 +46,8 @@
   "d1_databases": [
     {
       "binding": "D1_DATA",       // ← 请勿修改 binding 名称
-      "database_name": "",        // ← 填入你在 CF 控制台创建的 D1 数据库名称
-      "database_id": ""           // ← 填入你在 CF 控制台创建的 D1 数据库 UUID
+      "database_name": "openlist",        // ← 填入你在 CF 控制台创建的 D1 数据库名称
+      "database_id": "2fe17e06-f54a-4130-bd73-bd503d6c22d6"           // ← 填入你在 CF 控制台创建的 D1 数据库 UUID
     }
   ],
 
