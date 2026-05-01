@@ -29,7 +29,6 @@
     "bcryptjs": "^3.0.2",
     "dotenv": "^17.2.3",
     "fast-xml-parser": "^5.2.5",
-    "googleapis": "^105.0.0",
     "hono": "^4.10.7",
     "mariadb": "^3.4.5",
     "mssql": "^12.1.1",
